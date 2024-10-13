@@ -1,7 +1,7 @@
-###Test cafeteria Nanacao_
-https://github.com/lorelero/testCafeteria-
+# Test cafeteria Nanacao_
+## https://github.com/lorelero/testCafeteria-
 
-1.Testea que la ruta GET /cafes devuelve un status code 200 y el tipo de dato recibido
+1. Testea que la ruta GET /cafes devuelve un status code 200 y el tipo de dato recibido
 es un arreglo con por lo menos 1 objeto. (3 Puntos)
 
 2. Comprueba que se obtiene un código 404 al intentar eliminar un café con un id que
